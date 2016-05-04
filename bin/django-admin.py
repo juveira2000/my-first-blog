@@ -1,0 +1,5 @@
+#!/home/juliano/projetos/virtualenvs/meu_blog_1B/bin/python
+from django.core import management
+
+if __name__ == "__main__":
+    management.execute_from_command_line()
